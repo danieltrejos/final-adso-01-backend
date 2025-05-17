@@ -1,0 +1,132 @@
+{
+  "authors": [
+    {
+      "name": "Gabriel García Márquez"
+    },
+    {
+      "name": "Isabel Allende"
+    },
+    {
+      "name": "Mario Vargas Llosa"
+    },
+    {
+      "name": "Laura Esquivel"
+    },
+    {
+      "name": "Jorge Luis Borges"
+    }
+  ],
+  "categories": [
+    {
+      "name": "Novela"
+    },
+    {
+      "name": "Cuento"
+    },
+    {
+      "name": "Fantasía"
+    },
+    {
+      "name": "Ciencia Ficción"
+    },
+    {
+      "name": "Ensayo"
+    }
+  ],
+  "publishers": [
+    {
+      "name": "Alfaguara"
+    },
+    {
+      "name": "Planeta"
+    },
+    {
+      "name": "Seix Barral"
+    },
+    {
+      "name": "Debolsillo"
+    },
+    {
+      "name": "Sudamericana"
+    }
+  ],
+  "users": [
+    {
+      "name": "Admin Uno",
+      "email": "admin1@example.com",
+      "password": "admin123",
+      "role": "ADMIN"
+    },
+    {
+      "name": "Cliente Uno",
+      "email": "cliente1@example.com",
+      "password": "cliente123",
+      "role": "CLIENT"
+    },
+    {
+      "name": "Cliente Dos",
+      "email": "cliente2@example.com",
+      "password": "cliente123",
+      "role": "CLIENT"
+    },
+    {
+      "name": "Admin Dos",
+      "email": "admin2@example.com",
+      "password": "admin123",
+      "role": "ADMIN"
+    },
+    {
+      "name": "Cliente Tres",
+      "email": "cliente3@example.com",
+      "password": "cliente123",
+      "role": "CLIENT"
+    }
+  ],
+  "books": [
+    {
+      "name": "Cien años de soledad",
+      "isbn": "9780307474728",
+      "yearPublished": 1967,
+      "numPages": 417,
+      "authorId": 1,
+      "categoryId": 1,
+      "publisherId": 1
+    },
+    {
+      "name": "La casa de los espíritus",
+      "isbn": "9780553383805",
+      "yearPublished": 1982,
+      "numPages": 433,
+      "authorId": 2,
+      "categoryId": 1,
+      "publisherId": 2
+    },
+    {
+      "name": "Conversación en La Catedral",
+      "isbn": "9788439720210",
+      "yearPublished": 1969,
+      "numPages": 601,
+      "authorId": 3,
+      "categoryId": 1,
+      "publisherId": 3
+    },
+    {
+      "name": "Como agua para chocolate",
+      "isbn": "9780385474016",
+      "yearPublished": 1989,
+      "numPages": 246,
+      "authorId": 4,
+      "categoryId": 1,
+      "publisherId": 4
+    },
+    {
+      "name": "Ficciones",
+      "isbn": "9780307950925",
+      "yearPublished": 1944,
+      "numPages": 174,
+      "authorId": 5,
+      "categoryId": 2,
+      "publisherId": 5
+    }
+  ]
+}
