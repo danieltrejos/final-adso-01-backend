@@ -40,4 +40,10 @@ export class AuthorsService {
   reactivate(id: number) {
     return this.prisma.author.update({ where: { id }, data: { state: true } });
   }
+
+  async countActive() {
+    return this.prisma.author.count({
+      where: { state: true }
+    });
+  }
 }

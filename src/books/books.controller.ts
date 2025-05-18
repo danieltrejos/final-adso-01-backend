@@ -5,36 +5,68 @@ import { UpdateBookDto } from './dto/update-book.dto';
 
 @Controller('books')
 export class BooksController {
-  constructor(private readonly booksService: BooksService) { }
+  constructor(private readonly service: BooksService) { }
 
   @Post()
   create(@Body() createBookDto: CreateBookDto) {
-    return this.booksService.create(createBookDto);
+    return this.service.create(createBookDto);
   }
 
   @Get()
-  findAll(@Query('page') page: number = 1, @Query('limit') limit: number = 10, @Query('search') search: string = '') {
-    const skip = (page - 1) * limit;
-    return this.booksService.findAll({ skip, take: limit, search });
+  findAllActive(
+    @Query('page') page = '1',
+    @Query('limit') limit = '10',
+    @Query('search') search = ''
+  ) {
+    const skip = (Number(page) - 1) * Number(limit);
+    return this.service.findAllActive({
+      skip,
+      take: Number(limit),
+      search
+    });
+  }
+
+  @Get('inactive')
+  findAllInactive(
+    @Query('page') page = '1',
+    @Query('limit') limit = '10',
+    @Query('search') search = ''
+  ) {
+    const skip = (Number(page) - 1) * Number(limit);
+    return this.service.findAllInactive({
+      skip,
+      take: Number(limit),
+      search
+    });
+  }
+
+  @Get('stats/active')
+  async getActiveStats() {
+    const [books, loans] = await Promise.all([
+      this.service.countActive(),
+      this.service.countActiveLoans()
+    ]);
+
+    return { books, loans };
   }
 
   @Get(':id')
   findOne(@Param('id') id: string) {
-    return this.booksService.findOne(+id);
+    return this.service.findOne(+id);
   }
 
   @Patch(':id')
   update(@Param('id') id: string, @Body() updateBookDto: UpdateBookDto) {
-    return this.booksService.update(+id, updateBookDto);
+    return this.service.update(+id, updateBookDto);
   }
 
   @Delete(':id')
   deactivate(@Param('id') id: string) {
-    return this.booksService.deactivate(+id);
+    return this.service.deactivate(+id);
   }
 
   @Patch('restore/:id')
   reactivate(@Param('id') id: string) {
-    return this.booksService.reactivate(+id);
+    return this.service.reactivate(+id);
   }
 }

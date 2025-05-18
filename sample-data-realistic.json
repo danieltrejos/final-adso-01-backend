@@ -1,0 +1,1434 @@
+{
+  "authors": [
+    {
+      "name": "Inmaculada Benavides Ros"
+    },
+    {
+      "name": "Micaela Vall-Téllez"
+    },
+    {
+      "name": "Socorro Pozuelo Menendez"
+    },
+    {
+      "name": "Toribio Planas Mendez"
+    },
+    {
+      "name": "Julie Roig Borrego"
+    },
+    {
+      "name": "Joan del Sanmiguel"
+    },
+    {
+      "name": "Eufemia Navarro-Hierro"
+    },
+    {
+      "name": "Pablo Bustamante-Saldaña"
+    },
+    {
+      "name": "Herminia Lozano Tejero"
+    },
+    {
+      "name": "Chema Corbacho Morcillo"
+    },
+    {
+      "name": "Nilo Pancho Sarmiento Alfonso"
+    },
+    {
+      "name": "Alfredo Rojas Mayoral"
+    },
+    {
+      "name": "Severo Gutierrez-Montserrat"
+    },
+    {
+      "name": "Cintia Menéndez Rosado"
+    },
+    {
+      "name": "Amelia Vega Orozco"
+    },
+    {
+      "name": "Maricela Mayol Sedano"
+    },
+    {
+      "name": "Florentino Lerma Pino"
+    },
+    {
+      "name": "Cristian Millán Tenorio"
+    },
+    {
+      "name": "Pastora María Luisa Girón Mena"
+    },
+    {
+      "name": "Chucho Quero-Calderón"
+    },
+    {
+      "name": "Macarena Galvez Duque"
+    },
+    {
+      "name": "Arcelia Cabezas Falcó"
+    },
+    {
+      "name": "Quique Castelló Palomar"
+    },
+    {
+      "name": "Albina Hoz Bermúdez"
+    },
+    {
+      "name": "David Águila-Daza"
+    },
+    {
+      "name": "Juan Bautista Isern Alfonso"
+    },
+    {
+      "name": "Erasmo Eladio Solé Lobato"
+    },
+    {
+      "name": "Amor Verdejo-Carrasco"
+    },
+    {
+      "name": "Chelo Tur Figuerola"
+    },
+    {
+      "name": "Trini Falcó Piñol"
+    },
+    {
+      "name": "Maricruz Cánovas Vera"
+    },
+    {
+      "name": "Ruy Salinas Cerro"
+    },
+    {
+      "name": "Adora Andrade Jaén"
+    },
+    {
+      "name": "América Armengol"
+    },
+    {
+      "name": "Gonzalo Valero Cantero"
+    },
+    {
+      "name": "Selena Catalán Bravo"
+    },
+    {
+      "name": "Raimundo Galiano-Arteaga"
+    },
+    {
+      "name": "Albano Parejo"
+    },
+    {
+      "name": "Reyna Clavero Díez"
+    },
+    {
+      "name": "María José Diaz Cortés"
+    },
+    {
+      "name": "Kike Ortiz Blanch"
+    },
+    {
+      "name": "Febe Briones Casal"
+    },
+    {
+      "name": "Mario Quirino Santamaria Acosta"
+    },
+    {
+      "name": "Pelayo Lluch"
+    },
+    {
+      "name": "Hector del Bastida"
+    },
+    {
+      "name": "Sara de Asenjo"
+    },
+    {
+      "name": "Balduino Oliva Pomares"
+    },
+    {
+      "name": "Eva Figueras Valcárcel"
+    },
+    {
+      "name": "Xiomara Hidalgo Gálvez"
+    },
+    {
+      "name": "Martirio Gracia Morata"
+    }
+  ],
+  "categories": [
+    {
+      "name": "Drama"
+    },
+    {
+      "name": "Misterio"
+    },
+    {
+      "name": "Ciencia ficción"
+    },
+    {
+      "name": "Novela"
+    },
+    {
+      "name": "Ensayo"
+    },
+    {
+      "name": "Biografía"
+    },
+    {
+      "name": "Suspenso"
+    },
+    {
+      "name": "Autobiografía"
+    },
+    {
+      "name": "Mitología"
+    },
+    {
+      "name": "Humor"
+    },
+    {
+      "name": "Crónica"
+    },
+    {
+      "name": "Policíaco"
+    },
+    {
+      "name": "Poesía"
+    },
+    {
+      "name": "Distopía"
+    },
+    {
+      "name": "Cuento"
+    },
+    {
+      "name": "Romance"
+    },
+    {
+      "name": "Aventura"
+    },
+    {
+      "name": "Terror"
+    },
+    {
+      "name": "Fantasía"
+    },
+    {
+      "name": "Viajes"
+    }
+  ],
+  "publishers": [
+    {
+      "name": "Salamandra"
+    },
+    {
+      "name": "Planeta"
+    },
+    {
+      "name": "Penguin Random House"
+    },
+    {
+      "name": "Espasa"
+    },
+    {
+      "name": "Tusquets"
+    },
+    {
+      "name": "Anagrama"
+    },
+    {
+      "name": "Acantilado"
+    },
+    {
+      "name": "Alianza"
+    },
+    {
+      "name": "Debolsillo"
+    },
+    {
+      "name": "Destino"
+    },
+    {
+      "name": "Paidós"
+    },
+    {
+      "name": "Ariel"
+    },
+    {
+      "name": "Alfaguara"
+    },
+    {
+      "name": "Castalia"
+    },
+    {
+      "name": "Océano"
+    },
+    {
+      "name": "Siruela"
+    },
+    {
+      "name": "SM"
+    },
+    {
+      "name": "Norma"
+    },
+    {
+      "name": "Ediciones B"
+    },
+    {
+      "name": "Seix Barral"
+    }
+  ],
+  "users": [
+    {
+      "name": "África Cáceres Jódar",
+      "email": "wnunez@yahoo.com",
+      "password": "12345678",
+      "role": "ADMIN"
+    },
+    {
+      "name": "Abel Ferrando Jover",
+      "email": "pmaldonado@nicolas-mas.com",
+      "password": "12345678",
+      "role": "CLIENT"
+    },
+    {
+      "name": "Zaida Comas Barco",
+      "email": "ceciliagalan@barral.es",
+      "password": "12345678",
+      "role": "ADMIN"
+    },
+    {
+      "name": "María Dolores España Lledó",
+      "email": "tpeiro@correa.com",
+      "password": "12345678",
+      "role": "ADMIN"
+    },
+    {
+      "name": "Juan Antonio Pineda Alfonso",
+      "email": "lolasegura@jara.es",
+      "password": "12345678",
+      "role": "ADMIN"
+    },
+    {
+      "name": "Marcelo Alcántara Sanmartín",
+      "email": "canovaseutimio@yahoo.com",
+      "password": "12345678",
+      "role": "ADMIN"
+    },
+    {
+      "name": "Ximena Valderrama Clemente",
+      "email": "lpalomar@coello.es",
+      "password": "12345678",
+      "role": "CLIENT"
+    },
+    {
+      "name": "Rocío Almagro-Campo",
+      "email": "umorales@yahoo.com",
+      "password": "12345678",
+      "role": "ADMIN"
+    },
+    {
+      "name": "Marita Almazán Múgica",
+      "email": "iglesiayessica@yahoo.com",
+      "password": "12345678",
+      "role": "CLIENT"
+    },
+    {
+      "name": "Leoncio Carballo Rebollo",
+      "email": "genovevaarenas@yahoo.com",
+      "password": "12345678",
+      "role": "ADMIN"
+    },
+    {
+      "name": "Noelia del Ugarte",
+      "email": "tolosacarmelo@yahoo.com",
+      "password": "12345678",
+      "role": "CLIENT"
+    },
+    {
+      "name": "Eva Estévez Roldán",
+      "email": "ursulavaquero@rozas.net",
+      "password": "12345678",
+      "role": "ADMIN"
+    },
+    {
+      "name": "Calixta Contreras Vives",
+      "email": "celso84@jorda-palomo.es",
+      "password": "12345678",
+      "role": "ADMIN"
+    },
+    {
+      "name": "Abilio Calderon Gonzalez",
+      "email": "humberto32@becerra-duarte.org",
+      "password": "12345678",
+      "role": "CLIENT"
+    },
+    {
+      "name": "Ibán Salas-Santamaría",
+      "email": "jbueno@yahoo.com",
+      "password": "12345678",
+      "role": "CLIENT"
+    },
+    {
+      "name": "Ofelia Arregui Mendez",
+      "email": "yestrada@vigil-garcia.es",
+      "password": "12345678",
+      "role": "CLIENT"
+    },
+    {
+      "name": "Isabel Ribera Vara",
+      "email": "qtrillo@hotmail.com",
+      "password": "12345678",
+      "role": "CLIENT"
+    },
+    {
+      "name": "Bartolomé del Pol",
+      "email": "upuente@ruano.net",
+      "password": "12345678",
+      "role": "ADMIN"
+    },
+    {
+      "name": "Vito Olmo",
+      "email": "bterron@gmail.com",
+      "password": "12345678",
+      "role": "CLIENT"
+    },
+    {
+      "name": "Ruy Gil Batlle",
+      "email": "plinioizaguirre@yahoo.com",
+      "password": "12345678",
+      "role": "ADMIN"
+    },
+    {
+      "name": "Trini Valencia Cal",
+      "email": "bcoll@franco.es",
+      "password": "12345678",
+      "role": "ADMIN"
+    },
+    {
+      "name": "Feliciana Company",
+      "email": "jodargalo@nadal.com",
+      "password": "12345678",
+      "role": "ADMIN"
+    },
+    {
+      "name": "Macaria López Mur",
+      "email": "romulo33@casals.es",
+      "password": "12345678",
+      "role": "ADMIN"
+    },
+    {
+      "name": "Abilio Vicens Oller",
+      "email": "botelladominga@hotmail.com",
+      "password": "12345678",
+      "role": "ADMIN"
+    },
+    {
+      "name": "Celestina Beltrán",
+      "email": "rosalvacasas@montero.com",
+      "password": "12345678",
+      "role": "CLIENT"
+    },
+    {
+      "name": "Miguela Piña Anguita",
+      "email": "sandalio07@valera.es",
+      "password": "12345678",
+      "role": "CLIENT"
+    },
+    {
+      "name": "Gervasio Quero-Jaume",
+      "email": "eblanch@yahoo.com",
+      "password": "12345678",
+      "role": "ADMIN"
+    },
+    {
+      "name": "Dafne Robledo",
+      "email": "ulises94@yahoo.com",
+      "password": "12345678",
+      "role": "ADMIN"
+    },
+    {
+      "name": "Anna del Gascón",
+      "email": "ypardo@roig.org",
+      "password": "12345678",
+      "role": "CLIENT"
+    },
+    {
+      "name": "Luna Larrea Benavides",
+      "email": "cginer@yahoo.com",
+      "password": "12345678",
+      "role": "CLIENT"
+    },
+    {
+      "name": "María Luisa Boada",
+      "email": "alcazarofelia@hotmail.com",
+      "password": "12345678",
+      "role": "ADMIN"
+    },
+    {
+      "name": "Margarita Espada-Serna",
+      "email": "victoria96@cervantes-uriarte.com",
+      "password": "12345678",
+      "role": "CLIENT"
+    },
+    {
+      "name": "Cloe Bayona Elorza",
+      "email": "sanjuandani@gmail.com",
+      "password": "12345678",
+      "role": "ADMIN"
+    },
+    {
+      "name": "Agapito Bertrán-Mayoral",
+      "email": "floresciriaco@gmail.com",
+      "password": "12345678",
+      "role": "ADMIN"
+    },
+    {
+      "name": "Leocadia Villa",
+      "email": "quirogaluciano@hotmail.com",
+      "password": "12345678",
+      "role": "ADMIN"
+    },
+    {
+      "name": "Macario Pelayo Guijarro Taboada",
+      "email": "martineloisa@manzanares-saez.com",
+      "password": "12345678",
+      "role": "ADMIN"
+    },
+    {
+      "name": "Almudena Alarcón Rivas",
+      "email": "flavio20@ordonez.es",
+      "password": "12345678",
+      "role": "CLIENT"
+    },
+    {
+      "name": "Ligia Marí-Pujadas",
+      "email": "gabino38@hotmail.com",
+      "password": "12345678",
+      "role": "CLIENT"
+    },
+    {
+      "name": "Saturnino Manrique-Guijarro",
+      "email": "evitamontoya@yahoo.com",
+      "password": "12345678",
+      "role": "ADMIN"
+    },
+    {
+      "name": "Reyna Catalán Marí",
+      "email": "amandacalzada@hotmail.com",
+      "password": "12345678",
+      "role": "CLIENT"
+    },
+    {
+      "name": "Gracia Patricia Casal Pomares",
+      "email": "ximena21@gmail.com",
+      "password": "12345678",
+      "role": "ADMIN"
+    },
+    {
+      "name": "Vidal Morera Cruz",
+      "email": "dmorales@hotmail.com",
+      "password": "12345678",
+      "role": "ADMIN"
+    },
+    {
+      "name": "Wálter Bárcena Aroca",
+      "email": "imulet@martinez.es",
+      "password": "12345678",
+      "role": "ADMIN"
+    },
+    {
+      "name": "Esteban Uriarte",
+      "email": "natanael13@carlos-fuentes.com",
+      "password": "12345678",
+      "role": "CLIENT"
+    },
+    {
+      "name": "Adolfo Caro Zabala",
+      "email": "angelicaizaguirre@oliver-vargas.es",
+      "password": "12345678",
+      "role": "ADMIN"
+    },
+    {
+      "name": "Ángeles de Solana",
+      "email": "mazaafrica@gmail.com",
+      "password": "12345678",
+      "role": "CLIENT"
+    },
+    {
+      "name": "Luciano Bayo Fábregas",
+      "email": "pfarre@gmail.com",
+      "password": "12345678",
+      "role": "ADMIN"
+    },
+    {
+      "name": "Basilio Íñigo Amigó Menéndez",
+      "email": "gutierrezdonato@reig.com",
+      "password": "12345678",
+      "role": "CLIENT"
+    },
+    {
+      "name": "Rafaela Ordóñez Roma",
+      "email": "brigida01@gmail.com",
+      "password": "12345678",
+      "role": "ADMIN"
+    },
+    {
+      "name": "Mirta Paredes Pi",
+      "email": "jovita54@macias.org",
+      "password": "12345678",
+      "role": "CLIENT"
+    }
+  ],
+  "books": [
+    {
+      "name": "Odio sequi qui vero iure",
+      "isbn": "9780615661261",
+      "yearPublished": 1963,
+      "numPages": 442,
+      "authorId": 45,
+      "categoryId": 18,
+      "publisherId": 11
+    },
+    {
+      "name": "Delectus dignissimos nam ex quas",
+      "isbn": "9780032540255",
+      "yearPublished": 2023,
+      "numPages": 455,
+      "authorId": 43,
+      "categoryId": 17,
+      "publisherId": 11
+    },
+    {
+      "name": "Rerum temporibus soluta perferendis nemo",
+      "isbn": "9780606415675",
+      "yearPublished": 2013,
+      "numPages": 535,
+      "authorId": 9,
+      "categoryId": 1,
+      "publisherId": 5
+    },
+    {
+      "name": "Impedit qui corporis nam",
+      "isbn": "9780927906173",
+      "yearPublished": 1969,
+      "numPages": 373,
+      "authorId": 27,
+      "categoryId": 14,
+      "publisherId": 10
+    },
+    {
+      "name": "Possimus in distinctio reiciendis",
+      "isbn": "9781003589525",
+      "yearPublished": 1971,
+      "numPages": 675,
+      "authorId": 50,
+      "categoryId": 2,
+      "publisherId": 11
+    },
+    {
+      "name": "Debitis dolorum",
+      "isbn": "9780526676477",
+      "yearPublished": 1964,
+      "numPages": 543,
+      "authorId": 17,
+      "categoryId": 13,
+      "publisherId": 14
+    },
+    {
+      "name": "Libero soluta dolorum adipisci",
+      "isbn": "9780013172741",
+      "yearPublished": 2002,
+      "numPages": 562,
+      "authorId": 50,
+      "categoryId": 6,
+      "publisherId": 19
+    },
+    {
+      "name": "Sapiente et",
+      "isbn": "9780442286392",
+      "yearPublished": 2005,
+      "numPages": 691,
+      "authorId": 4,
+      "categoryId": 7,
+      "publisherId": 20
+    },
+    {
+      "name": "Necessitatibus beatae",
+      "isbn": "9781883037147",
+      "yearPublished": 1960,
+      "numPages": 359,
+      "authorId": 28,
+      "categoryId": 6,
+      "publisherId": 7
+    },
+    {
+      "name": "Quam soluta repellendus cum",
+      "isbn": "9780411198923",
+      "yearPublished": 1999,
+      "numPages": 774,
+      "authorId": 50,
+      "categoryId": 5,
+      "publisherId": 16
+    },
+    {
+      "name": "Asperiores accusamus omnis consequatur",
+      "isbn": "9781756531888",
+      "yearPublished": 1963,
+      "numPages": 607,
+      "authorId": 19,
+      "categoryId": 3,
+      "publisherId": 15
+    },
+    {
+      "name": "At numquam",
+      "isbn": "9781887022828",
+      "yearPublished": 1982,
+      "numPages": 262,
+      "authorId": 3,
+      "categoryId": 11,
+      "publisherId": 13
+    },
+    {
+      "name": "Quidem expedita nisi exercitationem",
+      "isbn": "9781414835785",
+      "yearPublished": 1967,
+      "numPages": 640,
+      "authorId": 1,
+      "categoryId": 13,
+      "publisherId": 9
+    },
+    {
+      "name": "Est facere quidem",
+      "isbn": "9780072997712",
+      "yearPublished": 1994,
+      "numPages": 251,
+      "authorId": 16,
+      "categoryId": 11,
+      "publisherId": 16
+    },
+    {
+      "name": "Aliquid quos",
+      "isbn": "9781714121465",
+      "yearPublished": 2020,
+      "numPages": 781,
+      "authorId": 45,
+      "categoryId": 19,
+      "publisherId": 12
+    },
+    {
+      "name": "Assumenda veniam",
+      "isbn": "9780616155134",
+      "yearPublished": 1956,
+      "numPages": 405,
+      "authorId": 25,
+      "categoryId": 18,
+      "publisherId": 11
+    },
+    {
+      "name": "Quod earum",
+      "isbn": "9780357321072",
+      "yearPublished": 1980,
+      "numPages": 352,
+      "authorId": 5,
+      "categoryId": 4,
+      "publisherId": 3
+    },
+    {
+      "name": "Quibusdam cumque",
+      "isbn": "9780610983870",
+      "yearPublished": 2022,
+      "numPages": 198,
+      "authorId": 25,
+      "categoryId": 17,
+      "publisherId": 9
+    },
+    {
+      "name": "Sed totam deleniti dolorem placeat",
+      "isbn": "9781602610743",
+      "yearPublished": 1999,
+      "numPages": 270,
+      "authorId": 45,
+      "categoryId": 18,
+      "publisherId": 3
+    },
+    {
+      "name": "Iste cumque aspernatur libero",
+      "isbn": "9781828888353",
+      "yearPublished": 2020,
+      "numPages": 347,
+      "authorId": 7,
+      "categoryId": 16,
+      "publisherId": 8
+    },
+    {
+      "name": "Neque alias placeat",
+      "isbn": "9780854558070",
+      "yearPublished": 1970,
+      "numPages": 751,
+      "authorId": 17,
+      "categoryId": 1,
+      "publisherId": 15
+    },
+    {
+      "name": "Debitis tempora eveniet",
+      "isbn": "9781662180736",
+      "yearPublished": 2011,
+      "numPages": 760,
+      "authorId": 15,
+      "categoryId": 14,
+      "publisherId": 9
+    },
+    {
+      "name": "Harum aut aliquid",
+      "isbn": "9781326504045",
+      "yearPublished": 2019,
+      "numPages": 497,
+      "authorId": 38,
+      "categoryId": 8,
+      "publisherId": 10
+    },
+    {
+      "name": "Excepturi illum minima",
+      "isbn": "9780045648788",
+      "yearPublished": 1970,
+      "numPages": 181,
+      "authorId": 41,
+      "categoryId": 7,
+      "publisherId": 1
+    },
+    {
+      "name": "Pariatur quia ratione pariatur",
+      "isbn": "9781262176061",
+      "yearPublished": 2009,
+      "numPages": 107,
+      "authorId": 19,
+      "categoryId": 7,
+      "publisherId": 14
+    },
+    {
+      "name": "Esse tenetur",
+      "isbn": "9780710975362",
+      "yearPublished": 1985,
+      "numPages": 184,
+      "authorId": 12,
+      "categoryId": 18,
+      "publisherId": 14
+    },
+    {
+      "name": "Culpa nostrum beatae",
+      "isbn": "9780945100768",
+      "yearPublished": 1965,
+      "numPages": 653,
+      "authorId": 30,
+      "categoryId": 15,
+      "publisherId": 11
+    },
+    {
+      "name": "Illo vero aliquam culpa",
+      "isbn": "9780636634503",
+      "yearPublished": 1962,
+      "numPages": 145,
+      "authorId": 31,
+      "categoryId": 2,
+      "publisherId": 15
+    },
+    {
+      "name": "Odio aliquam totam eius",
+      "isbn": "9780987378842",
+      "yearPublished": 1953,
+      "numPages": 266,
+      "authorId": 7,
+      "categoryId": 15,
+      "publisherId": 20
+    },
+    {
+      "name": "Minima unde error",
+      "isbn": "9781660108923",
+      "yearPublished": 1976,
+      "numPages": 688,
+      "authorId": 6,
+      "categoryId": 18,
+      "publisherId": 11
+    },
+    {
+      "name": "Ab sint rerum",
+      "isbn": "9780219075419",
+      "yearPublished": 1960,
+      "numPages": 686,
+      "authorId": 14,
+      "categoryId": 1,
+      "publisherId": 16
+    },
+    {
+      "name": "Nisi quibusdam illum",
+      "isbn": "9781429021425",
+      "yearPublished": 1960,
+      "numPages": 529,
+      "authorId": 12,
+      "categoryId": 14,
+      "publisherId": 2
+    },
+    {
+      "name": "Adipisci alias",
+      "isbn": "9780397880799",
+      "yearPublished": 1990,
+      "numPages": 497,
+      "authorId": 15,
+      "categoryId": 8,
+      "publisherId": 10
+    },
+    {
+      "name": "Voluptas ratione temporibus",
+      "isbn": "9781626034068",
+      "yearPublished": 1996,
+      "numPages": 449,
+      "authorId": 23,
+      "categoryId": 15,
+      "publisherId": 3
+    },
+    {
+      "name": "Ratione reiciendis ducimus eius pariatur",
+      "isbn": "9780118199513",
+      "yearPublished": 1975,
+      "numPages": 599,
+      "authorId": 27,
+      "categoryId": 16,
+      "publisherId": 9
+    },
+    {
+      "name": "Provident consequuntur",
+      "isbn": "9781214200561",
+      "yearPublished": 2012,
+      "numPages": 298,
+      "authorId": 7,
+      "categoryId": 5,
+      "publisherId": 5
+    },
+    {
+      "name": "Dolore reprehenderit",
+      "isbn": "9780192841544",
+      "yearPublished": 2016,
+      "numPages": 525,
+      "authorId": 11,
+      "categoryId": 13,
+      "publisherId": 10
+    },
+    {
+      "name": "Debitis modi",
+      "isbn": "9780809882069",
+      "yearPublished": 1965,
+      "numPages": 248,
+      "authorId": 48,
+      "categoryId": 13,
+      "publisherId": 5
+    },
+    {
+      "name": "Minima dolore",
+      "isbn": "9781473693807",
+      "yearPublished": 1968,
+      "numPages": 158,
+      "authorId": 36,
+      "categoryId": 10,
+      "publisherId": 16
+    },
+    {
+      "name": "Dolorum fugit asperiores consequatur aliquid",
+      "isbn": "9781374237131",
+      "yearPublished": 1950,
+      "numPages": 242,
+      "authorId": 19,
+      "categoryId": 7,
+      "publisherId": 5
+    },
+    {
+      "name": "Consequatur magni non",
+      "isbn": "9781453503287",
+      "yearPublished": 2003,
+      "numPages": 442,
+      "authorId": 7,
+      "categoryId": 11,
+      "publisherId": 4
+    },
+    {
+      "name": "Magni odit aliquid dolorum hic",
+      "isbn": "9780800334475",
+      "yearPublished": 1978,
+      "numPages": 562,
+      "authorId": 10,
+      "categoryId": 1,
+      "publisherId": 2
+    },
+    {
+      "name": "Quaerat aliquid iste",
+      "isbn": "9781533832580",
+      "yearPublished": 2010,
+      "numPages": 358,
+      "authorId": 43,
+      "categoryId": 7,
+      "publisherId": 4
+    },
+    {
+      "name": "Mollitia quam reiciendis fuga",
+      "isbn": "9781679611612",
+      "yearPublished": 2017,
+      "numPages": 556,
+      "authorId": 49,
+      "categoryId": 17,
+      "publisherId": 15
+    },
+    {
+      "name": "Aliquid accusamus sint",
+      "isbn": "9781752109760",
+      "yearPublished": 1984,
+      "numPages": 500,
+      "authorId": 11,
+      "categoryId": 14,
+      "publisherId": 18
+    },
+    {
+      "name": "Assumenda culpa pariatur repudiandae aperiam",
+      "isbn": "9781175121738",
+      "yearPublished": 1997,
+      "numPages": 414,
+      "authorId": 33,
+      "categoryId": 5,
+      "publisherId": 5
+    },
+    {
+      "name": "Eum veniam consequatur consequatur",
+      "isbn": "9780701776220",
+      "yearPublished": 2010,
+      "numPages": 437,
+      "authorId": 37,
+      "categoryId": 16,
+      "publisherId": 17
+    },
+    {
+      "name": "Voluptates molestias laudantium veritatis sapiente",
+      "isbn": "9781799383024",
+      "yearPublished": 1999,
+      "numPages": 798,
+      "authorId": 44,
+      "categoryId": 2,
+      "publisherId": 7
+    },
+    {
+      "name": "Soluta exercitationem dicta",
+      "isbn": "9780599390553",
+      "yearPublished": 1999,
+      "numPages": 204,
+      "authorId": 38,
+      "categoryId": 4,
+      "publisherId": 7
+    },
+    {
+      "name": "Nobis iusto",
+      "isbn": "9781737587309",
+      "yearPublished": 1982,
+      "numPages": 344,
+      "authorId": 18,
+      "categoryId": 20,
+      "publisherId": 11
+    }
+  ],
+  "loans": [
+    {
+      "userId": 24,
+      "bookId": 13,
+      "loanDate": "2025-04-12",
+      "returnDue": "2025-04-29",
+      "returned": true,
+      "returnedAt": "2025-04-22"
+    },
+    {
+      "userId": 45,
+      "bookId": 13,
+      "loanDate": "2025-03-25",
+      "returnDue": "2025-04-07",
+      "returned": true,
+      "returnedAt": "2025-04-04"
+    },
+    {
+      "userId": 31,
+      "bookId": 39,
+      "loanDate": "2025-05-07",
+      "returnDue": "2025-05-20",
+      "returned": true,
+      "returnedAt": "2025-05-13"
+    },
+    {
+      "userId": 28,
+      "bookId": 32,
+      "loanDate": "2025-02-28",
+      "returnDue": "2025-03-13",
+      "returned": true,
+      "returnedAt": "2025-03-24"
+    },
+    {
+      "userId": 36,
+      "bookId": 15,
+      "loanDate": "2025-04-10",
+      "returnDue": "2025-04-28",
+      "returned": true,
+      "returnedAt": "2025-04-26"
+    },
+    {
+      "userId": 33,
+      "bookId": 45,
+      "loanDate": "2025-02-25",
+      "returnDue": "2025-03-06",
+      "returned": false,
+      "returnedAt": null
+    },
+    {
+      "userId": 50,
+      "bookId": 12,
+      "loanDate": "2025-03-07",
+      "returnDue": "2025-03-27",
+      "returned": false,
+      "returnedAt": null
+    },
+    {
+      "userId": 32,
+      "bookId": 45,
+      "loanDate": "2025-05-03",
+      "returnDue": "2025-05-16",
+      "returned": false,
+      "returnedAt": null
+    },
+    {
+      "userId": 7,
+      "bookId": 26,
+      "loanDate": "2025-05-16",
+      "returnDue": "2025-05-26",
+      "returned": false,
+      "returnedAt": null
+    },
+    {
+      "userId": 8,
+      "bookId": 39,
+      "loanDate": "2025-04-16",
+      "returnDue": "2025-04-25",
+      "returned": true,
+      "returnedAt": "2025-04-24"
+    },
+    {
+      "userId": 9,
+      "bookId": 1,
+      "loanDate": "2025-04-13",
+      "returnDue": "2025-05-01",
+      "returned": true,
+      "returnedAt": "2025-05-07"
+    },
+    {
+      "userId": 2,
+      "bookId": 25,
+      "loanDate": "2025-03-06",
+      "returnDue": "2025-03-18",
+      "returned": false,
+      "returnedAt": null
+    },
+    {
+      "userId": 42,
+      "bookId": 23,
+      "loanDate": "2025-03-03",
+      "returnDue": "2025-03-21",
+      "returned": true,
+      "returnedAt": "2025-03-15"
+    },
+    {
+      "userId": 23,
+      "bookId": 19,
+      "loanDate": "2025-03-15",
+      "returnDue": "2025-03-25",
+      "returned": true,
+      "returnedAt": "2025-03-30"
+    },
+    {
+      "userId": 33,
+      "bookId": 5,
+      "loanDate": "2025-03-07",
+      "returnDue": "2025-03-24",
+      "returned": true,
+      "returnedAt": "2025-03-12"
+    },
+    {
+      "userId": 27,
+      "bookId": 16,
+      "loanDate": "2025-02-22",
+      "returnDue": "2025-03-14",
+      "returned": false,
+      "returnedAt": null
+    },
+    {
+      "userId": 34,
+      "bookId": 47,
+      "loanDate": "2025-04-19",
+      "returnDue": "2025-05-09",
+      "returned": true,
+      "returnedAt": "2025-05-10"
+    },
+    {
+      "userId": 29,
+      "bookId": 30,
+      "loanDate": "2025-04-08",
+      "returnDue": "2025-04-23",
+      "returned": true,
+      "returnedAt": "2025-05-01"
+    },
+    {
+      "userId": 15,
+      "bookId": 12,
+      "loanDate": "2025-02-18",
+      "returnDue": "2025-03-01",
+      "returned": false,
+      "returnedAt": null
+    },
+    {
+      "userId": 44,
+      "bookId": 36,
+      "loanDate": "2025-04-21",
+      "returnDue": "2025-04-29",
+      "returned": true,
+      "returnedAt": "2025-04-29"
+    },
+    {
+      "userId": 15,
+      "bookId": 16,
+      "loanDate": "2025-04-03",
+      "returnDue": "2025-04-21",
+      "returned": false,
+      "returnedAt": null
+    },
+    {
+      "userId": 5,
+      "bookId": 29,
+      "loanDate": "2025-04-07",
+      "returnDue": "2025-04-24",
+      "returned": false,
+      "returnedAt": null
+    },
+    {
+      "userId": 10,
+      "bookId": 1,
+      "loanDate": "2025-03-14",
+      "returnDue": "2025-03-28",
+      "returned": true,
+      "returnedAt": "2025-03-26"
+    },
+    {
+      "userId": 16,
+      "bookId": 38,
+      "loanDate": "2025-04-30",
+      "returnDue": "2025-05-19",
+      "returned": false,
+      "returnedAt": null
+    },
+    {
+      "userId": 35,
+      "bookId": 12,
+      "loanDate": "2025-05-11",
+      "returnDue": "2025-05-29",
+      "returned": false,
+      "returnedAt": null
+    },
+    {
+      "userId": 23,
+      "bookId": 49,
+      "loanDate": "2025-05-12",
+      "returnDue": "2025-05-30",
+      "returned": true,
+      "returnedAt": "2025-05-31"
+    },
+    {
+      "userId": 28,
+      "bookId": 9,
+      "loanDate": "2025-03-20",
+      "returnDue": "2025-04-09",
+      "returned": true,
+      "returnedAt": "2025-04-02"
+    },
+    {
+      "userId": 22,
+      "bookId": 45,
+      "loanDate": "2025-04-20",
+      "returnDue": "2025-04-30",
+      "returned": false,
+      "returnedAt": null
+    },
+    {
+      "userId": 6,
+      "bookId": 12,
+      "loanDate": "2025-04-10",
+      "returnDue": "2025-04-22",
+      "returned": false,
+      "returnedAt": null
+    },
+    {
+      "userId": 8,
+      "bookId": 23,
+      "loanDate": "2025-04-18",
+      "returnDue": "2025-04-27",
+      "returned": false,
+      "returnedAt": null
+    },
+    {
+      "userId": 27,
+      "bookId": 1,
+      "loanDate": "2025-04-26",
+      "returnDue": "2025-05-16",
+      "returned": true,
+      "returnedAt": "2025-05-12"
+    },
+    {
+      "userId": 47,
+      "bookId": 28,
+      "loanDate": "2025-05-02",
+      "returnDue": "2025-05-10",
+      "returned": true,
+      "returnedAt": "2025-05-23"
+    },
+    {
+      "userId": 7,
+      "bookId": 26,
+      "loanDate": "2025-03-19",
+      "returnDue": "2025-03-30",
+      "returned": false,
+      "returnedAt": null
+    },
+    {
+      "userId": 32,
+      "bookId": 28,
+      "loanDate": "2025-03-23",
+      "returnDue": "2025-04-09",
+      "returned": true,
+      "returnedAt": "2025-04-08"
+    },
+    {
+      "userId": 14,
+      "bookId": 47,
+      "loanDate": "2025-05-04",
+      "returnDue": "2025-05-23",
+      "returned": false,
+      "returnedAt": null
+    },
+    {
+      "userId": 26,
+      "bookId": 17,
+      "loanDate": "2025-04-08",
+      "returnDue": "2025-04-27",
+      "returned": true,
+      "returnedAt": "2025-04-25"
+    },
+    {
+      "userId": 15,
+      "bookId": 38,
+      "loanDate": "2025-02-25",
+      "returnDue": "2025-03-07",
+      "returned": false,
+      "returnedAt": null
+    },
+    {
+      "userId": 44,
+      "bookId": 44,
+      "loanDate": "2025-03-09",
+      "returnDue": "2025-03-20",
+      "returned": true,
+      "returnedAt": "2025-03-30"
+    },
+    {
+      "userId": 48,
+      "bookId": 31,
+      "loanDate": "2025-04-26",
+      "returnDue": "2025-05-11",
+      "returned": false,
+      "returnedAt": null
+    },
+    {
+      "userId": 32,
+      "bookId": 22,
+      "loanDate": "2025-03-22",
+      "returnDue": "2025-04-11",
+      "returned": true,
+      "returnedAt": "2025-03-29"
+    },
+    {
+      "userId": 44,
+      "bookId": 34,
+      "loanDate": "2025-04-17",
+      "returnDue": "2025-05-04",
+      "returned": false,
+      "returnedAt": null
+    },
+    {
+      "userId": 42,
+      "bookId": 29,
+      "loanDate": "2025-03-08",
+      "returnDue": "2025-03-27",
+      "returned": false,
+      "returnedAt": null
+    },
+    {
+      "userId": 40,
+      "bookId": 34,
+      "loanDate": "2025-04-27",
+      "returnDue": "2025-05-14",
+      "returned": true,
+      "returnedAt": "2025-05-14"
+    },
+    {
+      "userId": 40,
+      "bookId": 22,
+      "loanDate": "2025-04-23",
+      "returnDue": "2025-05-01",
+      "returned": true,
+      "returnedAt": "2025-05-01"
+    },
+    {
+      "userId": 20,
+      "bookId": 45,
+      "loanDate": "2025-03-05",
+      "returnDue": "2025-03-16",
+      "returned": false,
+      "returnedAt": null
+    },
+    {
+      "userId": 47,
+      "bookId": 2,
+      "loanDate": "2025-04-05",
+      "returnDue": "2025-04-14",
+      "returned": false,
+      "returnedAt": null
+    },
+    {
+      "userId": 13,
+      "bookId": 32,
+      "loanDate": "2025-03-14",
+      "returnDue": "2025-03-30",
+      "returned": true,
+      "returnedAt": "2025-03-26"
+    },
+    {
+      "userId": 44,
+      "bookId": 18,
+      "loanDate": "2025-03-09",
+      "returnDue": "2025-03-26",
+      "returned": true,
+      "returnedAt": "2025-03-26"
+    },
+    {
+      "userId": 15,
+      "bookId": 5,
+      "loanDate": "2025-03-06",
+      "returnDue": "2025-03-27",
+      "returned": false,
+      "returnedAt": null
+    },
+    {
+      "userId": 10,
+      "bookId": 7,
+      "loanDate": "2025-04-12",
+      "returnDue": "2025-04-26",
+      "returned": true,
+      "returnedAt": "2025-04-20"
+    }
+  ]
+}

@@ -5,28 +5,68 @@ import { UpdateBookDto } from './dto/update-book.dto';
 
 @Injectable()
 export class BooksService {
-  constructor(private prisma: PrismaService) { }
+  constructor(private readonly prisma: PrismaService) { }
 
   create(data: CreateBookDto) {
     return this.prisma.book.create({ data });
   }
 
-  findAll(params: { skip?: number; take?: number; search?: string }) {
+  // Método para obtener solo libros activos
+  async findAllActive(params: { skip?: number; take?: number; search?: string }) {
     const { skip, take, search } = params;
-    return this.prisma.book.findMany({
-      where: {
-        state: true,
-        name: search ? { contains: search } : undefined,
-      },
-      skip,
-      take,
-      include: {
-        author: true,
-        category: true,
-        publisher: true,
-      },
-      orderBy: { id: 'desc' },
-    });
+    const where = {
+      state: true,
+      name: search ? { contains: search, mode: 'insensitive' } : undefined,
+    };
+
+    const [data, total] = await Promise.all([
+      this.prisma.book.findMany({
+        where,
+        include: {
+          author: true,
+          category: true,
+          publisher: true,
+        },
+        skip: skip || 0,
+        take: take || 10,
+        orderBy: { id: 'desc' },
+      }),
+      this.prisma.book.count({ where }),
+    ]);
+
+    return {
+      data,
+      total,
+    };
+  }
+
+  // Método para obtener solo libros inactivos
+  async findAllInactive(params: { skip?: number; take?: number; search?: string }) {
+    const { skip, take, search } = params;
+    const where = {
+      state: false,
+      name: search ? { contains: search, mode: 'insensitive' } : undefined,
+    };
+
+    const [data, total] = await Promise.all([
+      this.prisma.book.findMany({
+        where,
+        include: {
+          author: true,
+          category: true,
+          publisher: true,
+        },
+        skip: skip || 0,
+        take: take || 10,
+        orderBy: { id: 'desc' },
+      }),
+      this.prisma.book.count({ where }),
+    ]);
+
+    return {
+      data,
+      total,
+    };
   }
 
   findOne(id: number) {
@@ -36,19 +76,48 @@ export class BooksService {
         author: true,
         category: true,
         publisher: true,
-      },
+      }
     });
   }
 
   update(id: number, data: UpdateBookDto) {
-    return this.prisma.book.update({ where: { id }, data });
+    return this.prisma.book.update({
+      where: { id },
+      data,
+      include: {
+        author: true,
+        category: true,
+        publisher: true,
+      }
+    });
   }
 
   deactivate(id: number) {
-    return this.prisma.book.update({ where: { id }, data: { state: false } });
+    return this.prisma.book.update({
+      where: { id },
+      data: { state: false }
+    });
   }
 
   reactivate(id: number) {
-    return this.prisma.book.update({ where: { id }, data: { state: true } });
+    return this.prisma.book.update({
+      where: { id },
+      data: { state: true }
+    });
+  }
+
+  async countActive() {
+    return this.prisma.book.count({
+      where: { state: true }
+    });
+  }
+
+  async countActiveLoans() {
+    return this.prisma.loan.count({
+      where: {
+        state: true,
+        returnedAt: null
+      }
+    });
   }
 }
