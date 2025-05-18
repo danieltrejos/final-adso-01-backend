@@ -1,0 +1,678 @@
+{
+  "authors": [
+    {
+      "name": "Ciro Calixto Aramburu Miguel",
+      "state": false
+    },
+    {
+      "name": "Marisol del Martorell",
+      "state": false
+    },
+    {
+      "name": "David Gallart Leiva",
+      "state": true
+    },
+    {
+      "name": "Eric Diéguez Girón",
+      "state": true
+    },
+    {
+      "name": "Ciríaco Ayala Gámez",
+      "state": true
+    },
+    {
+      "name": "Jose Luis Calzada Roldán",
+      "state": true
+    },
+    {
+      "name": "Conrado Lopez Gimenez",
+      "state": true
+    },
+    {
+      "name": "Estela Ortega Vara",
+      "state": true
+    },
+    {
+      "name": "Adoración Barrera Abella",
+      "state": true
+    },
+    {
+      "name": "Isidoro Acuña Izquierdo",
+      "state": true
+    },
+    {
+      "name": "Juan José Bilbao Belda",
+      "state": true
+    },
+    {
+      "name": "Marcial Fabra Pardo",
+      "state": true
+    },
+    {
+      "name": "Celestina del Samper",
+      "state": true
+    },
+    {
+      "name": "José María Jimenez Salas",
+      "state": true
+    },
+    {
+      "name": "Leocadio Lluch Huguet",
+      "state": true
+    },
+    {
+      "name": "Ester Exposito-Jordán",
+      "state": true
+    },
+    {
+      "name": "Rosario Carmona Bravo",
+      "state": true
+    },
+    {
+      "name": "Tere Montero Bárcena",
+      "state": true
+    },
+    {
+      "name": "Hector Agudo Lloret",
+      "state": true
+    },
+    {
+      "name": "Elvira Arnaiz-Pedrosa",
+      "state": true
+    }
+  ],
+  "categories": [
+    {
+      "name": "Novela",
+      "state": false
+    },
+    {
+      "name": "Cuento",
+      "state": false
+    },
+    {
+      "name": "Ensayo",
+      "state": true
+    },
+    {
+      "name": "Poesía",
+      "state": true
+    },
+    {
+      "name": "Fantasía",
+      "state": true
+    },
+    {
+      "name": "Ciencia Ficción",
+      "state": true
+    },
+    {
+      "name": "Biografía",
+      "state": true
+    },
+    {
+      "name": "Terror",
+      "state": true
+    },
+    {
+      "name": "Romance",
+      "state": true
+    },
+    {
+      "name": "Historia",
+      "state": true
+    }
+  ],
+  "publishers": [
+    {
+      "name": "Alfaguara",
+      "state": false
+    },
+    {
+      "name": "Planeta",
+      "state": false
+    },
+    {
+      "name": "Penguin Random House",
+      "state": true
+    },
+    {
+      "name": "Anagrama",
+      "state": true
+    },
+    {
+      "name": "Ediciones B",
+      "state": true
+    },
+    {
+      "name": "Tusquets",
+      "state": true
+    },
+    {
+      "name": "Seix Barral",
+      "state": true
+    },
+    {
+      "name": "Debolsillo",
+      "state": true
+    },
+    {
+      "name": "Alianza",
+      "state": true
+    },
+    {
+      "name": "Norma",
+      "state": true
+    }
+  ],
+  "users": [
+    {
+      "name": "Yésica del Company",
+      "email": "admin1@example.com",
+      "password": "admin123",
+      "role": "ADMIN",
+      "state": false
+    },
+    {
+      "name": "Renata Candelas Baquero Barceló",
+      "email": "admin2@example.com",
+      "password": "admin123",
+      "role": "ADMIN",
+      "state": false
+    },
+    {
+      "name": "Estefanía Tenorio Martorell",
+      "email": "gamezaraceli@gaya-amaya.es",
+      "password": "cliente123",
+      "role": "CLIENT",
+      "state": true
+    },
+    {
+      "name": "Teodosio Narváez Sacristán",
+      "email": "david24@morillo.com",
+      "password": "cliente123",
+      "role": "CLIENT",
+      "state": true
+    },
+    {
+      "name": "Alberto Lluch Camps",
+      "email": "hectorferrandiz@yahoo.com",
+      "password": "cliente123",
+      "role": "CLIENT",
+      "state": true
+    },
+    {
+      "name": "Pánfilo de Esteve",
+      "email": "gmascaro@gmail.com",
+      "password": "cliente123",
+      "role": "CLIENT",
+      "state": true
+    },
+    {
+      "name": "Telmo del Losada",
+      "email": "diniesta@yahoo.com",
+      "password": "cliente123",
+      "role": "CLIENT",
+      "state": true
+    },
+    {
+      "name": "Amaya Gomila-Uría",
+      "email": "villenaeusebio@tome.es",
+      "password": "cliente123",
+      "role": "CLIENT",
+      "state": true
+    },
+    {
+      "name": "Ambrosio Casemiro Nieto Gómez",
+      "email": "oliverassara@gmail.com",
+      "password": "cliente123",
+      "role": "CLIENT",
+      "state": true
+    },
+    {
+      "name": "Édgar Acevedo Bustamante",
+      "email": "iginer@carballo.com",
+      "password": "cliente123",
+      "role": "CLIENT",
+      "state": true
+    },
+    {
+      "name": "Che del Sola",
+      "email": "piedad32@gmail.com",
+      "password": "cliente123",
+      "role": "CLIENT",
+      "state": true
+    },
+    {
+      "name": "Flavia Llabrés Gomis",
+      "email": "mendezruperta@gmail.com",
+      "password": "cliente123",
+      "role": "CLIENT",
+      "state": true
+    }
+  ],
+  "books": [
+    {
+      "name": "Alias eum odio",
+      "isbn": "9780781594295",
+      "yearPublished": 1991,
+      "numPages": 372,
+      "authorId": 18,
+      "categoryId": 7,
+      "publisherId": 7,
+      "state": false
+    },
+    {
+      "name": "Quidem culpa facere",
+      "isbn": "9781693374401",
+      "yearPublished": 1992,
+      "numPages": 300,
+      "authorId": 18,
+      "categoryId": 6,
+      "publisherId": 1,
+      "state": false
+    },
+    {
+      "name": "Facilis culpa molestiae corporis eius",
+      "isbn": "9781664151390",
+      "yearPublished": 1973,
+      "numPages": 160,
+      "authorId": 6,
+      "categoryId": 6,
+      "publisherId": 3,
+      "state": true
+    },
+    {
+      "name": "Fugit quo",
+      "isbn": "9781743738450",
+      "yearPublished": 1962,
+      "numPages": 176,
+      "authorId": 10,
+      "categoryId": 2,
+      "publisherId": 5,
+      "state": true
+    },
+    {
+      "name": "Qui deserunt incidunt",
+      "isbn": "9781528166331",
+      "yearPublished": 2004,
+      "numPages": 754,
+      "authorId": 9,
+      "categoryId": 10,
+      "publisherId": 7,
+      "state": true
+    },
+    {
+      "name": "Incidunt eveniet",
+      "isbn": "9780115848803",
+      "yearPublished": 1994,
+      "numPages": 218,
+      "authorId": 11,
+      "categoryId": 9,
+      "publisherId": 1,
+      "state": true
+    },
+    {
+      "name": "Eius assumenda illo",
+      "isbn": "9781123726220",
+      "yearPublished": 2014,
+      "numPages": 400,
+      "authorId": 20,
+      "categoryId": 3,
+      "publisherId": 6,
+      "state": true
+    },
+    {
+      "name": "Nisi impedit culpa itaque",
+      "isbn": "9781646619856",
+      "yearPublished": 1988,
+      "numPages": 208,
+      "authorId": 9,
+      "categoryId": 7,
+      "publisherId": 1,
+      "state": true
+    },
+    {
+      "name": "Facere recusandae minima",
+      "isbn": "9781770364547",
+      "yearPublished": 1979,
+      "numPages": 286,
+      "authorId": 14,
+      "categoryId": 10,
+      "publisherId": 7,
+      "state": true
+    },
+    {
+      "name": "Illum mollitia",
+      "isbn": "9780331040043",
+      "yearPublished": 1991,
+      "numPages": 451,
+      "authorId": 16,
+      "categoryId": 8,
+      "publisherId": 5,
+      "state": true
+    },
+    {
+      "name": "Accusantium sapiente",
+      "isbn": "9780590194501",
+      "yearPublished": 1959,
+      "numPages": 688,
+      "authorId": 20,
+      "categoryId": 4,
+      "publisherId": 1,
+      "state": true
+    },
+    {
+      "name": "Natus vero perspiciatis vero temporibus",
+      "isbn": "9781085299138",
+      "yearPublished": 2004,
+      "numPages": 660,
+      "authorId": 6,
+      "categoryId": 1,
+      "publisherId": 6,
+      "state": true
+    },
+    {
+      "name": "Voluptatum quae enim pariatur voluptates",
+      "isbn": "9780714441962",
+      "yearPublished": 1997,
+      "numPages": 323,
+      "authorId": 20,
+      "categoryId": 4,
+      "publisherId": 9,
+      "state": true
+    },
+    {
+      "name": "Numquam recusandae aperiam ullam",
+      "isbn": "9781191119566",
+      "yearPublished": 1994,
+      "numPages": 404,
+      "authorId": 18,
+      "categoryId": 3,
+      "publisherId": 3,
+      "state": true
+    },
+    {
+      "name": "Molestiae nesciunt aut",
+      "isbn": "9781267852809",
+      "yearPublished": 1970,
+      "numPages": 633,
+      "authorId": 16,
+      "categoryId": 2,
+      "publisherId": 2,
+      "state": true
+    },
+    {
+      "name": "Eaque accusantium sit magnam",
+      "isbn": "9780502208258",
+      "yearPublished": 1996,
+      "numPages": 719,
+      "authorId": 8,
+      "categoryId": 5,
+      "publisherId": 6,
+      "state": true
+    },
+    {
+      "name": "Laudantium magni molestiae",
+      "isbn": "9781804422366",
+      "yearPublished": 1952,
+      "numPages": 599,
+      "authorId": 18,
+      "categoryId": 7,
+      "publisherId": 9,
+      "state": true
+    },
+    {
+      "name": "Exercitationem inventore ratione deleniti mollitia",
+      "isbn": "9781695868311",
+      "yearPublished": 1994,
+      "numPages": 578,
+      "authorId": 16,
+      "categoryId": 10,
+      "publisherId": 9,
+      "state": true
+    },
+    {
+      "name": "Officia sequi animi animi aspernatur",
+      "isbn": "9781343472914",
+      "yearPublished": 1964,
+      "numPages": 578,
+      "authorId": 6,
+      "categoryId": 1,
+      "publisherId": 2,
+      "state": true
+    },
+    {
+      "name": "Cum sit veniam",
+      "isbn": "9780876511640",
+      "yearPublished": 2006,
+      "numPages": 324,
+      "authorId": 5,
+      "categoryId": 8,
+      "publisherId": 4,
+      "state": true
+    },
+    {
+      "name": "Quidem assumenda saepe blanditiis",
+      "isbn": "9781976770609",
+      "yearPublished": 1985,
+      "numPages": 657,
+      "authorId": 7,
+      "categoryId": 8,
+      "publisherId": 8,
+      "state": true
+    },
+    {
+      "name": "Dolorum mollitia adipisci blanditiis delectus",
+      "isbn": "9781976043192",
+      "yearPublished": 1964,
+      "numPages": 564,
+      "authorId": 9,
+      "categoryId": 5,
+      "publisherId": 1,
+      "state": true
+    },
+    {
+      "name": "Nam atque consequatur",
+      "isbn": "9781791662561",
+      "yearPublished": 2017,
+      "numPages": 424,
+      "authorId": 17,
+      "categoryId": 6,
+      "publisherId": 9,
+      "state": true
+    },
+    {
+      "name": "Cumque saepe totam blanditiis culpa",
+      "isbn": "9780252080326",
+      "yearPublished": 1990,
+      "numPages": 191,
+      "authorId": 19,
+      "categoryId": 7,
+      "publisherId": 7,
+      "state": true
+    },
+    {
+      "name": "Architecto consequatur eum",
+      "isbn": "9781292942704",
+      "yearPublished": 1984,
+      "numPages": 232,
+      "authorId": 12,
+      "categoryId": 2,
+      "publisherId": 1,
+      "state": true
+    },
+    {
+      "name": "Labore debitis quisquam eveniet ipsam",
+      "isbn": "9780925659576",
+      "yearPublished": 1971,
+      "numPages": 545,
+      "authorId": 9,
+      "categoryId": 8,
+      "publisherId": 8,
+      "state": true
+    },
+    {
+      "name": "Aliquam ab iure",
+      "isbn": "9780817845599",
+      "yearPublished": 2003,
+      "numPages": 502,
+      "authorId": 10,
+      "categoryId": 6,
+      "publisherId": 6,
+      "state": true
+    },
+    {
+      "name": "Aliquam eos",
+      "isbn": "9780280482031",
+      "yearPublished": 1990,
+      "numPages": 363,
+      "authorId": 7,
+      "categoryId": 1,
+      "publisherId": 7,
+      "state": true
+    },
+    {
+      "name": "Veritatis aliquid quam accusantium",
+      "isbn": "9781926479378",
+      "yearPublished": 1979,
+      "numPages": 113,
+      "authorId": 20,
+      "categoryId": 7,
+      "publisherId": 6,
+      "state": true
+    },
+    {
+      "name": "Sint magni recusandae",
+      "isbn": "9781598604849",
+      "yearPublished": 1956,
+      "numPages": 639,
+      "authorId": 14,
+      "categoryId": 5,
+      "publisherId": 9,
+      "state": true
+    }
+  ],
+  "loans": [
+    {
+      "userId": 9,
+      "bookId": 22,
+      "loanDate": "2025-04-15T15:45:18.768318",
+      "returnDue": "2025-04-24T15:45:18.768318",
+      "returned": false,
+      "returnedAt": null
+    },
+    {
+      "userId": 8,
+      "bookId": 10,
+      "loanDate": "2025-04-02T15:45:18.768318",
+      "returnDue": "2025-04-12T15:45:18.768318",
+      "returned": false,
+      "returnedAt": null
+    },
+    {
+      "userId": 6,
+      "bookId": 6,
+      "loanDate": "2025-04-27T15:45:18.768318",
+      "returnDue": "2025-05-05T15:45:18.768318",
+      "returned": true,
+      "returnedAt": "2025-05-04T15:45:18.768318"
+    },
+    {
+      "userId": 2,
+      "bookId": 28,
+      "loanDate": "2025-04-11T15:45:18.768318",
+      "returnDue": "2025-05-02T15:45:18.768318",
+      "returned": true,
+      "returnedAt": "2025-04-20T15:45:18.768318"
+    },
+    {
+      "userId": 8,
+      "bookId": 24,
+      "loanDate": "2025-03-23T15:45:18.768318",
+      "returnDue": "2025-04-04T15:45:18.768318",
+      "returned": true,
+      "returnedAt": "2025-04-10T15:45:18.768318"
+    },
+    {
+      "userId": 7,
+      "bookId": 14,
+      "loanDate": "2025-04-11T15:45:18.768318",
+      "returnDue": "2025-04-24T15:45:18.768318",
+      "returned": false,
+      "returnedAt": null
+    },
+    {
+      "userId": 3,
+      "bookId": 20,
+      "loanDate": "2025-03-22T15:45:18.768318",
+      "returnDue": "2025-04-07T15:45:18.768318",
+      "returned": false,
+      "returnedAt": null
+    },
+    {
+      "userId": 10,
+      "bookId": 30,
+      "loanDate": "2025-05-05T15:45:18.768318",
+      "returnDue": "2025-05-17T15:45:18.768318",
+      "returned": false,
+      "returnedAt": null
+    },
+    {
+      "userId": 3,
+      "bookId": 16,
+      "loanDate": "2025-03-25T15:45:18.768318",
+      "returnDue": "2025-04-12T15:45:18.768318",
+      "returned": false,
+      "returnedAt": null
+    },
+    {
+      "userId": 9,
+      "bookId": 30,
+      "loanDate": "2025-05-13T15:45:18.768318",
+      "returnDue": "2025-05-24T15:45:18.768318",
+      "returned": false,
+      "returnedAt": null
+    },
+    {
+      "userId": 10,
+      "bookId": 3,
+      "loanDate": "2025-04-15T15:45:18.768318",
+      "returnDue": "2025-04-26T15:45:18.768318",
+      "returned": false,
+      "returnedAt": null
+    },
+    {
+      "userId": 7,
+      "bookId": 8,
+      "loanDate": "2025-04-10T15:45:18.768318",
+      "returnDue": "2025-04-25T15:45:18.768318",
+      "returned": false,
+      "returnedAt": null
+    },
+    {
+      "userId": 9,
+      "bookId": 17,
+      "loanDate": "2025-03-20T15:45:18.768318",
+      "returnDue": "2025-04-07T15:45:18.768318",
+      "returned": true,
+      "returnedAt": "2025-03-29T15:45:18.768318"
+    },
+    {
+      "userId": 2,
+      "bookId": 28,
+      "loanDate": "2025-05-02T15:45:18.768318",
+      "returnDue": "2025-05-11T15:45:18.768318",
+      "returned": true,
+      "returnedAt": "2025-05-11T15:45:18.768318"
+    },
+    {
+      "userId": 3,
+      "bookId": 20,
+      "loanDate": "2025-04-21T15:45:18.768318",
+      "returnDue": "2025-05-08T15:45:18.768318",
+      "returned": true,
+      "returnedAt": "2025-05-05T15:45:18.768318"
+    }
+  ]
+}

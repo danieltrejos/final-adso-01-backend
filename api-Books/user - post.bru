@@ -5,11 +5,16 @@ meta {
 }
 
 post {
-  url: http://localhost:3001/publishers
+  url: http://localhost:3001/users
   body: json
   auth: inherit
 }
 
 body:json {
-  {"name": "Alianza" }
+  {
+    "name": "Alianza",
+    "email" : "admin@gmail.com",
+    "password": "12345",
+    "role" : "ADMIN"
+  }
 }
