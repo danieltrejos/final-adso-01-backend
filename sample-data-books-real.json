@@ -1,0 +1,678 @@
+{
+  "authors": [
+    {
+      "name": "Gabriel García Márquez",
+      "state": false
+    },
+    {
+      "name": "Isabel Allende",
+      "state": false
+    },
+    {
+      "name": "Mario Vargas Llosa",
+      "state": true
+    },
+    {
+      "name": "Laura Esquivel",
+      "state": true
+    },
+    {
+      "name": "Jorge Luis Borges",
+      "state": true
+    },
+    {
+      "name": "Julio Cortázar",
+      "state": true
+    },
+    {
+      "name": "Carlos Fuentes",
+      "state": true
+    },
+    {
+      "name": "Juan Rulfo",
+      "state": true
+    },
+    {
+      "name": "Rosa Montero",
+      "state": true
+    },
+    {
+      "name": "Eduardo Galeano",
+      "state": true
+    },
+    {
+      "name": "Sofía Milla Martin",
+      "state": true
+    },
+    {
+      "name": "Carina Sevillano-Girón",
+      "state": true
+    },
+    {
+      "name": "Rubén Vilar Calatayud",
+      "state": true
+    },
+    {
+      "name": "Alexandra Arce Calderon",
+      "state": true
+    },
+    {
+      "name": "Wálter Berrocal Bello",
+      "state": true
+    },
+    {
+      "name": "Ovidio Narváez Almagro",
+      "state": true
+    },
+    {
+      "name": "Adalberto José Nieto Torralba",
+      "state": true
+    },
+    {
+      "name": "Candelaria Soto Fábregas",
+      "state": true
+    },
+    {
+      "name": "Hernán Leiva Barrio",
+      "state": true
+    },
+    {
+      "name": "Adelardo Almazán Cantero",
+      "state": true
+    }
+  ],
+  "categories": [
+    {
+      "name": "Novela",
+      "state": false
+    },
+    {
+      "name": "Cuento",
+      "state": false
+    },
+    {
+      "name": "Ensayo",
+      "state": true
+    },
+    {
+      "name": "Poesía",
+      "state": true
+    },
+    {
+      "name": "Fantasía",
+      "state": true
+    },
+    {
+      "name": "Ciencia Ficción",
+      "state": true
+    },
+    {
+      "name": "Biografía",
+      "state": true
+    },
+    {
+      "name": "Terror",
+      "state": true
+    },
+    {
+      "name": "Romance",
+      "state": true
+    },
+    {
+      "name": "Historia",
+      "state": true
+    }
+  ],
+  "publishers": [
+    {
+      "name": "Alfaguara",
+      "state": false
+    },
+    {
+      "name": "Planeta",
+      "state": false
+    },
+    {
+      "name": "Penguin Random House",
+      "state": true
+    },
+    {
+      "name": "Anagrama",
+      "state": true
+    },
+    {
+      "name": "Ediciones B",
+      "state": true
+    },
+    {
+      "name": "Tusquets",
+      "state": true
+    },
+    {
+      "name": "Seix Barral",
+      "state": true
+    },
+    {
+      "name": "Debolsillo",
+      "state": true
+    },
+    {
+      "name": "Alianza",
+      "state": true
+    },
+    {
+      "name": "Norma",
+      "state": true
+    }
+  ],
+  "users": [
+    {
+      "name": "Ariel Bartolomé Estévez Castrillo",
+      "email": "admin1@example.com",
+      "password": "admin123",
+      "role": "ADMIN",
+      "state": false
+    },
+    {
+      "name": "Federico del Ferrando",
+      "email": "admin2@example.com",
+      "password": "admin123",
+      "role": "ADMIN",
+      "state": false
+    },
+    {
+      "name": "Óscar Perales Lopez",
+      "email": "aperello@perez-campo.net",
+      "password": "cliente123",
+      "role": "CLIENT",
+      "state": true
+    },
+    {
+      "name": "Jose Manuel del Bernal",
+      "email": "lhoyos@hotmail.com",
+      "password": "cliente123",
+      "role": "CLIENT",
+      "state": true
+    },
+    {
+      "name": "Sebastian de Lluch",
+      "email": "aromeu@luna.com",
+      "password": "cliente123",
+      "role": "CLIENT",
+      "state": true
+    },
+    {
+      "name": "Diego Verdugo Marín",
+      "email": "baezadavid@yahoo.com",
+      "password": "cliente123",
+      "role": "CLIENT",
+      "state": true
+    },
+    {
+      "name": "Máximo Andrade Roda",
+      "email": "geronimo24@gmail.com",
+      "password": "cliente123",
+      "role": "CLIENT",
+      "state": true
+    },
+    {
+      "name": "Ágata Verdugo Tenorio",
+      "email": "trinidad07@hotmail.com",
+      "password": "cliente123",
+      "role": "CLIENT",
+      "state": true
+    },
+    {
+      "name": "Delfina Vila Bartolomé",
+      "email": "mendezluz@yahoo.com",
+      "password": "cliente123",
+      "role": "CLIENT",
+      "state": true
+    },
+    {
+      "name": "Roberto Arregui Ferrer",
+      "email": "ariasmercedes@tolosa.net",
+      "password": "cliente123",
+      "role": "CLIENT",
+      "state": true
+    },
+    {
+      "name": "Prudencio Juan Pomares",
+      "email": "figueroaalbano@hotmail.com",
+      "password": "cliente123",
+      "role": "CLIENT",
+      "state": true
+    },
+    {
+      "name": "Ángeles Valverde Pizarro",
+      "email": "scarretero@anaya.es",
+      "password": "cliente123",
+      "role": "CLIENT",
+      "state": true
+    }
+  ],
+  "books": [
+    {
+      "name": "Cien años de soledad",
+      "isbn": "9781665368957",
+      "yearPublished": 1966,
+      "numPages": 704,
+      "authorId": 1,
+      "categoryId": 10,
+      "publisherId": 6,
+      "state": false
+    },
+    {
+      "name": "El amor en los tiempos del cólera",
+      "isbn": "9781652158097",
+      "yearPublished": 2006,
+      "numPages": 589,
+      "authorId": 1,
+      "categoryId": 2,
+      "publisherId": 10,
+      "state": false
+    },
+    {
+      "name": "Crónica de una muerte anunciada",
+      "isbn": "9781514404287",
+      "yearPublished": 1951,
+      "numPages": 570,
+      "authorId": 1,
+      "categoryId": 2,
+      "publisherId": 10,
+      "state": true
+    },
+    {
+      "name": "La casa de los espíritus",
+      "isbn": "9781901226454",
+      "yearPublished": 2012,
+      "numPages": 617,
+      "authorId": 2,
+      "categoryId": 5,
+      "publisherId": 10,
+      "state": true
+    },
+    {
+      "name": "Paula",
+      "isbn": "9780004325118",
+      "yearPublished": 2019,
+      "numPages": 684,
+      "authorId": 2,
+      "categoryId": 2,
+      "publisherId": 2,
+      "state": true
+    },
+    {
+      "name": "Eva Luna",
+      "isbn": "9781292544564",
+      "yearPublished": 1986,
+      "numPages": 323,
+      "authorId": 2,
+      "categoryId": 6,
+      "publisherId": 6,
+      "state": true
+    },
+    {
+      "name": "La ciudad y los perros",
+      "isbn": "9780760894064",
+      "yearPublished": 1963,
+      "numPages": 136,
+      "authorId": 3,
+      "categoryId": 3,
+      "publisherId": 2,
+      "state": true
+    },
+    {
+      "name": "Conversación en La Catedral",
+      "isbn": "9780304480920",
+      "yearPublished": 1992,
+      "numPages": 281,
+      "authorId": 3,
+      "categoryId": 2,
+      "publisherId": 8,
+      "state": true
+    },
+    {
+      "name": "La fiesta del Chivo",
+      "isbn": "9780951343517",
+      "yearPublished": 2010,
+      "numPages": 494,
+      "authorId": 3,
+      "categoryId": 7,
+      "publisherId": 5,
+      "state": true
+    },
+    {
+      "name": "Como agua para chocolate",
+      "isbn": "9781153280174",
+      "yearPublished": 2002,
+      "numPages": 434,
+      "authorId": 4,
+      "categoryId": 4,
+      "publisherId": 9,
+      "state": true
+    },
+    {
+      "name": "Tan veloz como el deseo",
+      "isbn": "9781895234060",
+      "yearPublished": 2020,
+      "numPages": 326,
+      "authorId": 4,
+      "categoryId": 4,
+      "publisherId": 3,
+      "state": true
+    },
+    {
+      "name": "El diario de Tita",
+      "isbn": "9781715790400",
+      "yearPublished": 1966,
+      "numPages": 165,
+      "authorId": 4,
+      "categoryId": 10,
+      "publisherId": 8,
+      "state": true
+    },
+    {
+      "name": "Ficciones",
+      "isbn": "9781940521350",
+      "yearPublished": 1978,
+      "numPages": 762,
+      "authorId": 5,
+      "categoryId": 7,
+      "publisherId": 9,
+      "state": true
+    },
+    {
+      "name": "El Aleph",
+      "isbn": "9781681698243",
+      "yearPublished": 1990,
+      "numPages": 127,
+      "authorId": 5,
+      "categoryId": 9,
+      "publisherId": 10,
+      "state": true
+    },
+    {
+      "name": "El libro de arena",
+      "isbn": "9780259932918",
+      "yearPublished": 1968,
+      "numPages": 147,
+      "authorId": 5,
+      "categoryId": 10,
+      "publisherId": 8,
+      "state": true
+    },
+    {
+      "name": "Rayuela",
+      "isbn": "9780231448635",
+      "yearPublished": 2015,
+      "numPages": 782,
+      "authorId": 6,
+      "categoryId": 1,
+      "publisherId": 9,
+      "state": true
+    },
+    {
+      "name": "Final del juego",
+      "isbn": "9780822054849",
+      "yearPublished": 1984,
+      "numPages": 150,
+      "authorId": 6,
+      "categoryId": 5,
+      "publisherId": 4,
+      "state": true
+    },
+    {
+      "name": "Bestiario",
+      "isbn": "9780735367340",
+      "yearPublished": 2003,
+      "numPages": 377,
+      "authorId": 6,
+      "categoryId": 4,
+      "publisherId": 2,
+      "state": true
+    },
+    {
+      "name": "La muerte de Artemio Cruz",
+      "isbn": "9781415466971",
+      "yearPublished": 1957,
+      "numPages": 307,
+      "authorId": 7,
+      "categoryId": 6,
+      "publisherId": 6,
+      "state": true
+    },
+    {
+      "name": "Aura",
+      "isbn": "9781780800820",
+      "yearPublished": 1977,
+      "numPages": 751,
+      "authorId": 7,
+      "categoryId": 10,
+      "publisherId": 7,
+      "state": true
+    },
+    {
+      "name": "Terra Nostra",
+      "isbn": "9781597566896",
+      "yearPublished": 2000,
+      "numPages": 548,
+      "authorId": 7,
+      "categoryId": 9,
+      "publisherId": 6,
+      "state": true
+    },
+    {
+      "name": "Pedro Páramo",
+      "isbn": "9780169296292",
+      "yearPublished": 1953,
+      "numPages": 768,
+      "authorId": 8,
+      "categoryId": 6,
+      "publisherId": 2,
+      "state": true
+    },
+    {
+      "name": "El llano en llamas",
+      "isbn": "9780772352798",
+      "yearPublished": 1968,
+      "numPages": 562,
+      "authorId": 8,
+      "categoryId": 9,
+      "publisherId": 3,
+      "state": true
+    },
+    {
+      "name": "La loca de la casa",
+      "isbn": "9780055817044",
+      "yearPublished": 2003,
+      "numPages": 352,
+      "authorId": 9,
+      "categoryId": 7,
+      "publisherId": 2,
+      "state": true
+    },
+    {
+      "name": "Historia del Rey Transparente",
+      "isbn": "9780516530772",
+      "yearPublished": 1969,
+      "numPages": 612,
+      "authorId": 9,
+      "categoryId": 7,
+      "publisherId": 3,
+      "state": true
+    },
+    {
+      "name": "Las venas abiertas de América Latina",
+      "isbn": "9781516830114",
+      "yearPublished": 2002,
+      "numPages": 342,
+      "authorId": 10,
+      "categoryId": 6,
+      "publisherId": 4,
+      "state": true
+    },
+    {
+      "name": "El libro de los abrazos",
+      "isbn": "9781805299509",
+      "yearPublished": 1980,
+      "numPages": 155,
+      "authorId": 10,
+      "categoryId": 6,
+      "publisherId": 10,
+      "state": true
+    },
+    {
+      "name": "Quidem nihil",
+      "isbn": "9781564691552",
+      "yearPublished": 2010,
+      "numPages": 192,
+      "authorId": 8,
+      "categoryId": 8,
+      "publisherId": 9,
+      "state": true
+    },
+    {
+      "name": "Magni sunt sapiente",
+      "isbn": "9780261397347",
+      "yearPublished": 2007,
+      "numPages": 720,
+      "authorId": 16,
+      "categoryId": 4,
+      "publisherId": 8,
+      "state": true
+    },
+    {
+      "name": "Commodi molestias corporis",
+      "isbn": "9781608308071",
+      "yearPublished": 1962,
+      "numPages": 576,
+      "authorId": 17,
+      "categoryId": 10,
+      "publisherId": 4,
+      "state": true
+    }
+  ],
+  "loans": [
+    {
+      "userId": 11,
+      "bookId": 23,
+      "loanDate": "2025-04-13T15:51:46.483907",
+      "returnDue": "2025-04-24T15:51:46.483907",
+      "returned": false,
+      "returnedAt": null
+    },
+    {
+      "userId": 6,
+      "bookId": 30,
+      "loanDate": "2025-05-17T15:51:46.483907",
+      "returnDue": "2025-05-24T15:51:46.483907",
+      "returned": false,
+      "returnedAt": null
+    },
+    {
+      "userId": 2,
+      "bookId": 7,
+      "loanDate": "2025-05-01T15:51:46.483907",
+      "returnDue": "2025-05-14T15:51:46.483907",
+      "returned": true,
+      "returnedAt": "2025-05-09T15:51:46.483907"
+    },
+    {
+      "userId": 5,
+      "bookId": 9,
+      "loanDate": "2025-04-08T15:51:46.483907",
+      "returnDue": "2025-04-28T15:51:46.483907",
+      "returned": false,
+      "returnedAt": null
+    },
+    {
+      "userId": 4,
+      "bookId": 15,
+      "loanDate": "2025-03-30T15:51:46.483907",
+      "returnDue": "2025-04-14T15:51:46.483907",
+      "returned": true,
+      "returnedAt": "2025-04-10T15:51:46.483907"
+    },
+    {
+      "userId": 5,
+      "bookId": 15,
+      "loanDate": "2025-04-10T15:51:46.483907",
+      "returnDue": "2025-04-22T15:51:46.483907",
+      "returned": false,
+      "returnedAt": null
+    },
+    {
+      "userId": 9,
+      "bookId": 4,
+      "loanDate": "2025-04-20T15:51:46.483907",
+      "returnDue": "2025-05-05T15:51:46.483907",
+      "returned": false,
+      "returnedAt": null
+    },
+    {
+      "userId": 9,
+      "bookId": 20,
+      "loanDate": "2025-05-06T15:51:46.483907",
+      "returnDue": "2025-05-24T15:51:46.483907",
+      "returned": true,
+      "returnedAt": "2025-05-31T15:51:46.483907"
+    },
+    {
+      "userId": 1,
+      "bookId": 8,
+      "loanDate": "2025-04-02T15:51:46.483907",
+      "returnDue": "2025-04-12T15:51:46.483907",
+      "returned": true,
+      "returnedAt": "2025-04-09T15:51:46.483907"
+    },
+    {
+      "userId": 2,
+      "bookId": 19,
+      "loanDate": "2025-03-27T15:51:46.483907",
+      "returnDue": "2025-04-09T15:51:46.483907",
+      "returned": true,
+      "returnedAt": "2025-04-10T15:51:46.483907"
+    },
+    {
+      "userId": 9,
+      "bookId": 15,
+      "loanDate": "2025-04-03T15:51:46.483907",
+      "returnDue": "2025-04-13T15:51:46.483907",
+      "returned": false,
+      "returnedAt": null
+    },
+    {
+      "userId": 12,
+      "bookId": 25,
+      "loanDate": "2025-04-29T15:51:46.483907",
+      "returnDue": "2025-05-16T15:51:46.483907",
+      "returned": false,
+      "returnedAt": null
+    },
+    {
+      "userId": 7,
+      "bookId": 10,
+      "loanDate": "2025-04-26T15:51:46.483907",
+      "returnDue": "2025-05-04T15:51:46.483907",
+      "returned": true,
+      "returnedAt": "2025-05-11T15:51:46.483907"
+    },
+    {
+      "userId": 2,
+      "bookId": 18,
+      "loanDate": "2025-04-07T15:51:46.483907",
+      "returnDue": "2025-04-18T15:51:46.483907",
+      "returned": false,
+      "returnedAt": null
+    },
+    {
+      "userId": 6,
+      "bookId": 27,
+      "loanDate": "2025-04-23T15:51:46.483907",
+      "returnDue": "2025-05-06T15:51:46.483907",
+      "returned": true,
+      "returnedAt": "2025-05-03T15:51:46.483907"
+    }
+  ]
+}

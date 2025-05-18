@@ -45,7 +45,10 @@ export class BooksService {
     const { skip, take, search } = params;
     const where = {
       state: false,
-      name: search ? { contains: search, mode: 'insensitive' } : undefined,
+      OR: search ? [
+        { name: { contains: search, mode: 'insensitive' } },
+        { isbn: { contains: search, mode: 'insensitive' } }
+      ] : undefined
     };
 
     const [data, total] = await Promise.all([
@@ -56,8 +59,8 @@ export class BooksService {
           category: true,
           publisher: true,
         },
-        skip: skip || 0,
-        take: take || 10,
+        skip,
+        take,
         orderBy: { id: 'desc' },
       }),
       this.prisma.book.count({ where }),
